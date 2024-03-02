@@ -25,4 +25,4 @@ In the data preparation phase, I performed the following tasks:
 ### Insights
 1. Bitcoin value by year and Month.
 2. Bitcoin volume by year and Month.
-![Project 2 -Bitcoin](https://github.com/Yakdam-Datanalyst/Bitcoin/assets/150525531/7516cd3e-7ab0-4bfe-b948-6a84e51b2c03)
+![Project 2- Bitcoin](https://github.com/Yakdam-Datanalyst/Bitcoin/assets/150525531/36678980-162d-4f85-9745-abeba7cfba63)
